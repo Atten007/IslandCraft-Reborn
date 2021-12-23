@@ -1,0 +1,11 @@
+name: IslandCraft Reborn
+version: 1.0.0
+description: Changes the biome distribution of the world to create an ocean with islands (Updated for 1.18.1)
+author: Atten007
+website: http://dev.bukkit.org/bukkit-plugins/islandcraft-reborn/
+main: com.github.atten007.islandcraft.bukkit.IslandCraftPlugin
+load: STARTUP
+commands:
+    ic:
+      description: IslandCraft commands
+      aliases: [island,islandcraft]
